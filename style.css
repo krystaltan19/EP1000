@@ -1,0 +1,11 @@
+body{background:#EEE;
+font-family:Helvetica,Arial; }
+a{text-decoration: none;color: cornflowerblue}
+h1, h2, h3{margin:0;}
+#container{background background-color: antiquewhite;width: 800px;margin-left: auto;margin-right: auto;}
+#header{background-color: lightpink;color:lavenderblush;text-align: center;padding:10px;}
+#content{padding:10px;}
+#nav{width:180px;float: left;}
+#nav ul{list-style-type: none; padding:0px;}
+#nav .selected{font-weight:bold;}
+#main{width: 600px;float: right;}
